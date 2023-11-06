@@ -1,0 +1,3 @@
+map _ zoom in
+map <BackSpace> jumplist backward
+map <S-BackSpace> jumplist forward
