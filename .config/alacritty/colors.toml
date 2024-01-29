@@ -1,0 +1,75 @@
+#[color_schemes.mocha.cursor]
+#cursor = "#F5E0DC"
+#text = "#181F21"
+
+#[color_schemes.mocha.hints.end]
+#background = "#A6ADC8"
+#foreground = "#181F21"
+
+#[color_schemes.mocha.hints.start]
+#background = "#E0E0DE"
+#foreground = "#181F21"
+
+#[color_schemes.mocha.primary]
+#background = "#0b0c0d"
+#bright_foreground = "#BDBEB0"
+#dim_foreground = "#BDBEB0"
+#foreground = "#BDBEB0"
+
+#[color_schemes.mocha.search.focused_match]
+#background = "#BDBEB0"
+#foreground = "#181F21"
+
+#[color_schemes.mocha.search.footer_bar]
+#background = "#A6ADC8"
+#foreground = "#181F21"
+
+#[color_schemes.mocha.search.matches]
+#background = "#A6ADC8"
+#foreground = "#181F21"
+
+#[color_schemes.mocha.selection]
+#background = "#F5E0DC"
+#text = "#181F21"
+
+#[color_schemes.mocha.vi_mode_cursor]
+#cursor = "#393C3E"
+#text = "#181F21"
+
+[colors.cursor]
+cursor = "#F5E0DC"
+text = "#181F21"
+
+[colors.hints.end]
+background = "#A6ADC8"
+foreground = "#181F21"
+
+[colors.hints.start]
+background = "#E0E0DE"
+foreground = "#181F21"
+
+[colors.primary]
+background = "#0b0c0d"
+bright_foreground = "#BDBEB0"
+dim_foreground = "#BDBEB0"
+foreground = "#BDBEB0"
+
+[colors.search.focused_match]
+background = "#BDBEB0"
+foreground = "#181F21"
+
+#[colors.search.footer_bar]
+#background = "#A6ADC8"
+#foreground = "#181F21"
+
+[colors.search.matches]
+background = "#A6ADC8"
+foreground = "#181F21"
+
+[colors.selection]
+background = "#F5E0DC"
+text = "#181F21"
+
+[colors.vi_mode_cursor]
+cursor = "#393C3E"
+text = "#181F21"
