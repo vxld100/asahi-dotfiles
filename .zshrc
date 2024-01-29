@@ -38,6 +38,7 @@ xr() {sudo xbps-remove $@}
 export PATH=$PATH:/home/lilin/.local/bin/:~/alr/bin/:~/.cargo/bin
 export SXHKD_SHELL=/bin/sh
 export W3MIMGDISPLAY_PATH=/usr/lin/w3m/w3mimgdisplay
+export cs="/home/lilin/Uni/Fundamentals of Computer Science/exercises/assignment 6/Templates/"
 
 # The following lines were added by compinstall
 

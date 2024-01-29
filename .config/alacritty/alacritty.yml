@@ -49,7 +49,10 @@ live_config_reload: true
 
 ## Font
 font:
+  normal:
+    family: "MesloLGS NF"
   size: 15.0
+
 
 ## Key bindings
 key_bindings:
